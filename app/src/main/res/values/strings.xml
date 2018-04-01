@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DownloadingImageToListView</string>
+    <array name="images_array">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0qGK86Vd5uCa97hCc-6l9acq9xWEgHpnqUF5lh042iqK1er4</item>
+        <item>http://kb4images.com/images/images-cool/36641019-images-cool.jpg</item>
+        <item>http://lh3.ggpht.com/_GEnSvSHk4iE/TDSfmyCfn0I/AAAAAAAAF8Y/cqmhEoxbwys/s144-c/_MG_3675.jpg</item>
+        <item>http://lh6.ggpht.com/_ZN5zQnkI67I/TCFFZaJHDnI/AAAAAAAABVk/YoUbDQHJRdo/s144-c/P9250508.JPG</item>
+        <item>http://lh4.ggpht.com/_XjNwVI0kmW8/TCOwNtzGheI/AAAAAAAAC84/SxFJhG7Scgo/s144-c/0014.jpg</item>
+        <item>http://lh6.ggpht.com/_Nsxc889y6hY/TBp7jfx-cgI/AAAAAAAAHAg/Rr7jX44r2Gc/s144-c/IMGP9775a.jpg</item>
+        <item>http://lh6.ggpht.com/_ZN5zQnkI67I/TCFFZaJHDnI/AAAAAAAABVk/YoUbDQHJRdo/s144-c/P9250508.JPG</item>
+    </array>
+
+    <array name="headline_array">
+        <item>HttpURLConnection vs. HttpsURLConnection</item>
+        <item>It can cover Https addresses also</item>
+        <item>because HttpsURLConnection extends this.</item>
+        <item>HttpsURLConnection extends HttpURLConnection</item>
+        <item>with support for https-specific features such as SSL</item>
+        <item>If HttpsURLConnection use same methods in HttpURLConnection(parent class),</item>
+        <item>it super calls the methods from HttpURLConnection.</item>
+    </array>
+</resources>
